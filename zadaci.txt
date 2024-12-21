@@ -1,0 +1,4 @@
+1.Srediti slike*
+2.Srediti stranice*
+3.Srediti admin stranu
+4.Napraviti novo zakazivanje
